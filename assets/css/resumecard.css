@@ -348,7 +348,7 @@ hr {
 }
 
 .list-strip li:nth-child(even) {
-    background: #BA4E4E;
+    background: #69b733;
 }
 
 .btn-flat {
@@ -414,7 +414,7 @@ hr {
     left: 50%;
     margin-left: -10px;
     bottom: -10px;
-    border-top: 10px solid #249EBD;
+    border-top: 10px solid #098626;
     border-left: 10px solid transparent;
     border-right: 10px solid transparent;
 }
