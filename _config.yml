@@ -79,7 +79,7 @@ author:
     - language4:
       name: Spanish
       proficiency: Basic
-  TechnicalSkills:
+  programmingSkills:
     - skill1:
       name: DevOps Methodologies
       percentage: 70%
