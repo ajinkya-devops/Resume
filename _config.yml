@@ -1,6 +1,6 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
+title: Ajinkya's CV 
+description: Ajinkya's CV
 favicon: /assets/img/avatar.JPG
 baseurl: https://ddbullfrog.github.io/resumecard
 url: https://ajinkyabapat.github.io/
@@ -28,45 +28,57 @@ author:
 #  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: XXX Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
-      started: 2014
-      duration: (2014 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Ignite Solutions Pvt. Ltd.
+      location: Pune, India
+      title: DevOps Engineer
+      started: 2017
+      duration: (2017 - Present)
+      description: 
     - work2:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: DXC Technology
+      location: Bangalore, India
+      title: DevOps Engineer
+      started: 2017
+      duration: (Apr 2017 - Aug 2017)
+      description: 
     - work3:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Hewlett Packard Enterprise
+      location: Bangalore, India
+      title: DevOps Engineer
+      started: 2016
+      duration: (Feb 2016 - Mar 2017)
+      description: 
   educationHistory:
     - education1:
-      organization: XXXXXX University
-      location: Shenyang, China
+      organization: University Of Pune
+      location: Kopargaon, India
       degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      major: Computer Engineering
+      started: 2012
+      duration: (2012 - 2015)
+      description: 
+    - education2:
+      organization: MSBTE
+      location: Kopargaon, India
+      degree: Diploma
+      major: Information Technology
+      started: 2009
+      duration: (2009 - 2012)
+      description: 
+
   languages:
     - language1:
-      name: Chinese
-      proficiency: Native
-    - language2:
       name: English
       proficiency: Professional
+    - language2:
+      name: Hindi
+      proficiency: Professional
     - language3:
-      name: Japanese
-      proficiency: Limit
+      name: Marathi
+      proficiency: Native
+    - language4:
+      name: Spanish
+      proficiency: Basic
   programmingSkills:
     - skill1:
       name: HTML
