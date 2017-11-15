@@ -253,7 +253,7 @@ hr {
 }
 
 .timeline-badge.info {
-    background-color: #5bc0de !important;
+    background-color: #267723 !important;
 }
 
 .timeline-title {
@@ -308,7 +308,7 @@ hr {
     border-radius: 5px;
     text-align: right;
     position: relative;
-    background: #63A4B5;
+    background: #267723;
     box-shadow: none;
 }
 
@@ -336,7 +336,7 @@ hr {
 }
 
 .list-skills li:nth-child(even) .progress-bar {
-    background: #4B6F78;
+    background: #69b733;
 }
 
 .list-strip li {
@@ -344,7 +344,7 @@ hr {
     padding: 10px;
     margin-bottom: 6px;
     border-radius: 5px;
-    background: #4B6F78;
+    background: #267723;
 }
 
 .list-strip li:nth-child(even) {
@@ -397,7 +397,7 @@ hr {
     padding-bottom: 10px;
     position: absolute;
     left: 0;
-    background: #249EBD;
+    background: #27A822;
     padding: 10px;
     color: white;
     min-width: 40px;
@@ -482,7 +482,7 @@ hr {
 }
 
 .ribbon.red{
-  background: #c00;
+  background: #267723;
 }
 
 .ribbon.blue{
