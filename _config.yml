@@ -3,7 +3,7 @@ title: Dong Liang's CV
 description: ddbullfrog's CV
 favicon: /assets/img/avatar.JPG
 baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
+url: https://ajinkyabapat.github.io/
 rss_url: /pages/atom.xml
 google_analytics: UA-63653234-1
 
@@ -14,17 +14,17 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang#gmail.com
+  name: Ajinkya Bapat
+  title: DevOps Engineer
+  address: Pune, India
+  email: ajinkyabapat12@gmail.com
   link: http://ddbullfrog.com
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
+  github: AjinkyaBapat
+  linkedin: ajinkyabapat
+  twitter: ajinkyab12
   gavatar: /resumecard/assets/img/avatar.JPG
-  stackoverflow:
+  stackoverflow: 6202024
 #  stackoverflow: 4582127
   workHistory:
     - work1:
