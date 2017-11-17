@@ -40,14 +40,14 @@ author:
       title: DevOps Engineer
       started: 2017
       duration: (Apr 2017 - Aug 2017)
-      description: 'DXC Technology was formed from the merger of HPE & CSC. I got migrated into it as a result of this merger. I handled similar responsibilities in the new company.'
+      description: "DXC Technology was formed from the merger of HPE & CSC. I got migrated into it as a result of this merger. I handled similar responsibilities in the new company."
     - work3:
       company: Hewlett Packard Enterprise
       location: Bangalore, India
       title: DevOps Engineer
       started: 2015
       duration: (Nov 2015 - Mar 2017)
-      description: 'My first company! I worked on several projects after completing my initial training program. I was part of the 'Cloud Automation' team. My work involved around following: Cloud Service Automation(HP CSA), Operation Orhestration(HP OO), Server Automation(HP SA), SCM, Monitoring, Backup Solutions, etc.'
+      description: "My first company! I worked on several projects after completing my initial training program. I was part of the 'Cloud Automation' team. My work involved around following: Cloud Service Automation(HP CSA), Operation Orhestration(HP OO), Server Automation(HP SA), SCM, Monitoring, Backup Solutions, etc."
   educationHistory:
     - education1:
       organization: University Of Pune
@@ -56,7 +56,7 @@ author:
       major: Computer Engineering
       started: 2012
       duration: (2012 - 2015)
-      description: Graduated with 'First Class with Distinction'
+      description: "Graduated with 'First Class with Distinction'"
     - education2:
       organization: Maharashtra State Board of Technical Education
       location: Kopargaon, India
@@ -64,7 +64,7 @@ author:
       major: Information Technology
       started: 2009
       duration: (2009 - 2012)
-      description: 'Completed my diploma with Distinction.'
+      description: "Completed my diploma with Distinction."
 
   languages:
     - language1:
