@@ -12,7 +12,7 @@ This is the web page on my desktop browser.
 
 ## Getting Started
 -------
-- [Fork this repository](https://github.com/ddbullfrog/resumecard/fork)
+- [Fork this repository](https://github.com/AjinkyaBapat/Resume/fork)
 - Clone it: `git clone https://github.com/YOUR-USER/Resume`
 - Install `Jekyll` (If you do not have it)
 - Run the jekyll server: `jekyll serve`
