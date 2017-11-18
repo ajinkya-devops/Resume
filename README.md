@@ -4,7 +4,7 @@ My Resume is built on top of bootstrap and other freely available libraries.
 
 ## Demo
 -------
-You can see it live on my website [resumecard](http://ajinkyabapat.me/Resume/)
+You can see it live on my website [ajinkyabapat.me/Resume](http://ajinkyabapat.me/Resume/)
 
 This is the web page on my desktop browser.
 
@@ -14,7 +14,7 @@ This is the web page on my desktop browser.
 -------
 - [Fork this repository](https://github.com/ddbullfrog/resumecard/fork)
 - Clone it: `git clone https://github.com/YOUR-USER/Resume`
-- Install Jekyll (If you do not have it)
+- Install `Jekyll` (If you do not have it)
 - Run the jekyll server: `jekyll serve`
 
 You should have a server up and running locally at <http://localhost:4000>.
