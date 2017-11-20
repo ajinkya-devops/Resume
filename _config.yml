@@ -5,7 +5,7 @@ favicon: /assets/img/avatar.jpg
 baseurl: /
 url: https://ajinkyabapat.me/
 rss_url: /pages/atom.xml
-google_analytics: UA-109864084-1
+google_analytics: UA-109858103-1
 
 # Build settings
 markdown: kramdown
