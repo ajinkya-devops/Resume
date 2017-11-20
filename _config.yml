@@ -56,7 +56,7 @@ author:
       major: Computer Engineering
       started: 2012
       duration: (2012 - 2015)
-      description: "Graduated with 'First Class with Distinction' grades. Won several prizes in Programming/Coding Competitions."
+      description: "Graduated with 'First Class with Distinction' grades. Won several prizes in Programming/Coding Competitions. Did my final year project on 'Data Mining'."
     - education2:
       organization: Maharashtra State Board of Technical Education
       location: Kopargaon, India
@@ -64,7 +64,7 @@ author:
       major: Information Technology
       started: 2009
       duration: (2009 - 2012)
-      description: "Completed my Diploma with Distinction. Got to learn some pretty cool stuff in those 3 years!"
+      description: "Completed my Diploma with Distinction. Got to learn some pretty cool stuff in those 3 years! Learnt to code, learnt to debug, learnt to make 'Software'!"
 
   languages:
     - language1:
